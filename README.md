@@ -20,5 +20,3 @@ Welcome to **Blogflio** – a simple and powerful CRUD-based 🧱 blogging portf
 
 ---
 
-## 📂 Project Structure
-
